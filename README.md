@@ -22,7 +22,10 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+```ruby
+hello_man = HelloMan.new
+hello_man.greetingable(string)
+```
 
 ## Development
 
